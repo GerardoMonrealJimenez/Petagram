@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="cornerRadiusCard">4dp</dimen>
+    <dimen name="elevacionBar">4dp</dimen>
+    <dimen name="paddingMascotaInfo">10dp</dimen>
+    <dimen name="textwidth">250dp</dimen>
+    <dimen name="textSize">20dp</dimen>
+    <dimen name="paddingtext">5dp</dimen>
+</resources>
